@@ -4,7 +4,7 @@
     "message-channel-socket-io"
   ],
   "name": "p2m-message-channel-socket-io",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A channel for P2M message service that use socket.io to communication with client side.",
   "main": "main/message-channel-socket-io.js",
   "repository": "https://github.com/colin-han/p2m-message-channel-socket-io.git",
